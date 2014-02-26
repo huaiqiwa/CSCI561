@@ -1,0 +1,59 @@
+case 1
++B+B+B+B
+B+B+B+B+
++B+B+B+B
+O+O+O+O+
++O+O+O+O
+A+A+A+A+
++A+A+A+A
+A+A+A+A+
+
+case 2
++B+B+B+B
+O+O+B+B+
++O+O+B+B
+O+B+O+O+
++O+O+O+O
+A+A+A+O+
++O+O+O+O
+O+O+O+O+
+
+case 3
++O+O+O+O
+O+O+O+O+
++B+O+O+O
+O+O+O+O+
++B+B+O+O
+O+A+A+O+
++O+O+O+O
+O+O+A+A+
+
+case 4
++k+O+O+O
+O+B+O+O+
++O+O+O+B
+O+O+O+B+
++O+O+B+O
+O+O+O+O+
++O+O+O+O
+A+A+A+A+
+
+case 5
++B+B+B+B
+O+O+O+O+
++O+O+O+O
+O+O+O+O+
++B+B+K+O
+O+A+O+O+
++O+O+O+O
+A+A+O+A+
+
+case 6
++k+O+O+O
+B+O+O+O+
++O+O+O+O
+O+O+O+O+
++O+O+O+O
+O+O+O+O+
++O+O+O+O
+O+O+O+O+
