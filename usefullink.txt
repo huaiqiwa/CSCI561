@@ -1,1 +1,2 @@
 http://scm.ncsu.edu/scm-articles/article/double-exponential-smoothing-approaches-to-forecasting-a-tutorial
+http://n00tc0d3r.blogspot.com/
